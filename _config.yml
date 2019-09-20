@@ -1,0 +1,10 @@
+name: Werd InfoSec
+url: https://werdinfosec.com
+description: Hacking and stuff
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+plugins: [jekyll-paginate]
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
