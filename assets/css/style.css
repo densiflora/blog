@@ -109,17 +109,17 @@ h3 {
 
 /*** Structure ***/
 #page {
-	width: 500px;
+	width: 800px; /*** added ***/
 	margin: 0 auto;
 	position: relative;
 }
 
 #header {
-	width: 500px;
+	width: 800px; /*** added ***/
 	margin: 40px auto 50px auto;
 }
 #header h1 {
-	font-size: 32px;
+	font-size: 40px; /*** originally 32px ***/
 	margin-bottom: 4px;
 }
 #header h1 a {
