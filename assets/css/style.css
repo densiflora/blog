@@ -137,6 +137,7 @@ h3 {
 #content {
 	width: 800px; /*** originally 500px ***/
 	margin: 0 auto;
+	text-align: left; /*** added ***/
 }
 
 #sidebar {
