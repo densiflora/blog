@@ -33,7 +33,7 @@ table {
 /*** Basics ***/
 body {
 	font-family: Verdana, serif;
-	font-size: 13px;
+	font-size: 16px; /*** original 13px ***/
 	line-height: 1.7;
 }
 
@@ -77,15 +77,15 @@ acronym, abbr {
 
 
 h1 {
-	font-size: 17px;
+	font-size: 19px; /*** orignally 17px ***/
 	margin: 0 0 10px 0;
 }
 h2 {
-	font-size: 15px;
+	font-size: 17px; /*** originally 15px ***/
 	margin: 0 0 10px 0;
 }
 h3 {
-	font-size: 14px;
+	font-size: 16px; /*** originally 14px ***/
 	margin: 0 0 10px 0;
 }
 
@@ -109,17 +109,17 @@ h3 {
 
 /*** Structure ***/
 #page {
-	width: 500px;
+	width: 800px; /*** added ***/
 	margin: 0 auto;
 	position: relative;
 }
 
 #header {
-	width: 500px;
+	width: 800px; /*** added ***/
 	margin: 40px auto 50px auto;
 }
 #header h1 {
-	font-size: 32px;
+	font-size: 40px; /*** originally 32px ***/
 	margin-bottom: 4px;
 }
 #header h1 a {
@@ -135,16 +135,17 @@ h3 {
 }
 
 #content {
-	width: 500px;
+	width: 800px; /*** originally 500px ***/
 	margin: 0 auto;
+	text-align: left; /*** added ***/
 }
 
 #sidebar {
 	position: absolute;
 	text-align: right;
-	width: 160px;
+	width: 160px; /*** originally 160px ***/
 	top: 0;
-	left: -240px;
+	left: -300px; /*** originally -240px ***/
 }
 
 #sidebar li {
