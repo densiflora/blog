@@ -2,6 +2,7 @@
 layout: post
 title:  "Analyzing a phishing email"
 date:   2019-09-19 08:43:00
+description: "Recently my wife and I had some work done by a contractor. We have been awaiting an invoice. My wife received a suspicious email with a word document attachment and i decided to try to take it apart and see what it was."
 categories: malware analysis phishing malicious word doc docm document
 ---
 
