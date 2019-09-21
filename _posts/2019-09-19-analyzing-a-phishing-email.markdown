@@ -12,8 +12,8 @@ Below is a screenshot of the email my wife received.
 
 <img src="https://werdinfosec.com/images/2019-09-19/image1.png" class="centered" />
 
-Intro
-=====
+Introduction
+============
 
 I was quite proud of my wife for immediately recognizing this as a phishing attack. It's easy to see how this email might be skimmed, and this fake invoice could be opened without much thought. 
 I've always been quite interested in how nefarious actors are able to gain access to computers remotely.
