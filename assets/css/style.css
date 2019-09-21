@@ -77,15 +77,15 @@ acronym, abbr {
 
 
 h1 {
-	font-size: 17px;
+	font-size: 19px; /*** orignally 17px ***/
 	margin: 0 0 10px 0;
 }
 h2 {
-	font-size: 15px;
+	font-size: 17px; /*** originally 15px ***/
 	margin: 0 0 10px 0;
 }
 h3 {
-	font-size: 14px;
+	font-size: 16px; /*** originally 14px ***/
 	margin: 0 0 10px 0;
 }
 
@@ -135,7 +135,7 @@ h3 {
 }
 
 #content {
-	width: 500px;
+	width: 800px; /*** originally 500px ***/
 	margin: 0 auto;
 }
 
