@@ -26,7 +26,7 @@ Planning
 In late 2018, I started planning for how I was going to study for and take the exam. I knew that I wanted to start the labs sometime in the Summer of 2019. 
 I decided that I would try to save some money by doing a lot of independent studying and only doing 30 days of lab time. 
 I set aside Mondays, Wednesdays, and Fridays from 9-5, January through June, to study with [Hack The Box] and [VulnHub].
-When July began fast approaching, I decided to push my lab date back until the beginning of August.
+When July began rapidly approaching, I decided to push my lab date to the beginning of August.
 
 I completely understand that not everyone has 24 hours a week to study. I happened to have quite a bit of free time that allowed me to study in this manner. 
 The absolute most important thing to do is make realistic goals and try to hold yourself to them.
@@ -40,7 +40,7 @@ Studying 1/3/19 - 8/8/19
 
 I made it my goal to try to hack every single box on this [list by TJNULL]. 
 In order to do the retired machines on HTB, I had to purchase VIP; this cost me ~$12-15/mo. I think this is a pretty reasonable price. 
-This list is really great practice for the PWK/OSCP. While I was going through this list, I attempted to do as much as possible without looking at any writeups. When I was completely stuck,
+This list is really great practice for the PWK/OSCP. While I was going through this list, I attempted to do as much as possible without looking at any write-ups. When I was completely stuck,
 and after I got just about frustrated enough to throw in the towel, then and only then would I go and watch the [Ippsec] video. When I watched these videos, I would only watch just enough to get unstuck. 
 
 I tried to keep really good notes as I was going, in an attempt to emulate the note taking I would need to do in the exam. I would review the notes after I completed each machine. 
@@ -101,7 +101,7 @@ If you are really stuck, either move on, or be sure you've actually looked at ev
 
 Knowing that I already had 75 points plus half-ish credit for the 25 point machine I got stuck on, I almost ended right here. I did want the bragging rights of rooting every machine though.
 This is a little bit difficult to describe without revealing any information I am not allowed to share, but basically, I thought about the privilege escalation again and it just clicked.
-I regained my shell and did the priviliege escalation, and that was it.
+I regained my shell and escalated my privileges to the root user, and that was it.
 
 The very last thing I did was double check my work. I wanted to make absolutely sure that I had every screenshot that I would need to do the report the following day.
 I also double checked that I had submitted all of the proof.txt and local.txt required. I was very happy I did this because had I not, I wouldn't have received credit for one of the machines.
