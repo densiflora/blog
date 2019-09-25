@@ -67,8 +67,8 @@ Conclusion
 
 With the reemergence of the [emotet botnet], phishing attacks like this aren't going anywhere. The email came from the compromised email address of someone with whom we had corespondance.
 It appears it is sophisticated enough to generate an email that is almost believable, aside from a few grammatical errors, and it is using the Invoice tactic.
-In an enterprise environment, this little Word Doc could probably do some real damage. Let this be a reminder to properly train all employees to watch out for these things.
-It is important to audit your team and make sure that everyone understands the implications of such an attack.
+In an enterprise environment, this little Word Doc could probably do some real damage. Let this be a reminder to properly train all employees to watch out for phishing emails.
+It is important to audit your team and make sure that everyone understands the implications of such an attack. Also, use a password manager and change your passwords frequently.
 
 [oletools]: https://github.com/decalage2/oletools/wiki/Install
 [emotet botnet]: https://en.wikipedia.org/wiki/Emotet
