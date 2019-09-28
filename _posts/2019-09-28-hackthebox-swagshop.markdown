@@ -7,7 +7,7 @@ date:   2019-09-28
 categories: hackthebox hack the box swagshop swag shop write-up writeup write up
 ---
 
-<img src="https://werdinfosec.com/images/2019-09-28/image1.png" class="right" />
+<img src="https://werdinfosec.com/images/2019-09-28/image1.png" class="centered" />
 
 <br/>
 
