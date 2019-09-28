@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "HTB - Swagshop"
+title:  "HTB - Swagshop Write-up"
 description: <img src="https://werdinfosec.com/images/2019-09-28/image0.png" class="centered" />
 
-date:   2019-09-22 
+date:   2019-09-28 
 categories: hackthebox hack the box swagshop swag shop write-up writeup write up
 ---
 
