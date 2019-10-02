@@ -106,7 +106,7 @@ The exploit requires the exact date and time of the installation. This informati
 *url: http://10.10.10.140/app/etc/local.xml*
 <img src="https://werdinfosec.com/images/2019-09-28/image13.png" class="centered" />
 
-This exploit requires that username and password are defined. Change the install_date variable toreflect local.xml. Also the manual username control prevents the exploit from executing successfully.
+This exploit requires that username and password are defined. Change the install_date variable to reflect local.xml. Also the manual username control prevents the exploit from executing successfully.
 
 <img src="https://werdinfosec.com/images/2019-09-28/image14.png" class="centered" />
 <img src="https://werdinfosec.com/images/2019-09-28/image15.png" class="centered" />
